@@ -1,2 +1,2 @@
 # .github
-An IT recruiter for those hard to hire tech professionals
+Full life cycle technology recruitment support
